@@ -1,6 +1,6 @@
 {
 	"name":"extension-androidtools",
-	"url":"https://github.com/MAJigsaw77/extension-androidtools",
+	"url":"https://github.com/VegethYT/extension-androidtools",
 	"license":"MIT",
 	"tags":[
 		"android",
@@ -15,6 +15,6 @@
 		"MAJigsaw77"
 	],
 	"dependencies":{
-		"lime":""
+		"lime":"7.9.0"
 	}
 }
